@@ -11,7 +11,7 @@
 ## 3. Now make a folder inside the coursera folder named [ images.png ] exactly like this.
 ![sample11](https://github.com/Uday-Pratap-hub/Coursera-Website/assets/67860426/3dd69401-3507-44a8-8121-f262fd6a7c26)
 ## 4. Further steps are mentioned in the folder images.png inside this repo.
-## 5. For Fast track process you can simply download the images from Sample PNG images folder present inside this repo and upload all those images wherever required. Like mentioned in Step 2 of next section.
+# 5. For FAST TRACK process you can simply download the images from [ Sample PNG Fast Track ] folder present inside this repo and upload all those images wherever required. Like mentioned in Step 2 of next section.
 ## 6. For Standard track or long track you need to make a Visual Studio Code setup and import all folders in this repo and then you can add your name by finding my name wherever is used in html file. Then run the html on localhost and take screenshots of the assignments asked questions whatever is asked in them. But must be only in PNG format ONLY. So, rest steps are mentioned in next section. 👇
 
 # Main steps for Fast and Standard Track :- 👇
